@@ -1,0 +1,5 @@
+{
+  "name": "Excel Tab Merger",
+  "description": "Upload multiple Excel files and merge data from common tabs into a single consolidated sheet.",
+  "requestFramePermissions": []
+}
